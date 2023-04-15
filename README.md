@@ -18,10 +18,9 @@ Genrate Graph chart for :
 ### Task 3
 Fake Buyer Identification, Find the order id satisfying following conditions:
 1.The shipping address differs from the billing address.
-2.Unusually large orders.(cut off Rs 50000)
+2.Unusually large orders.(cut off Rs 50000).
 3.Multiple orders to the same address with different payment method.
 4.Unexpected international orders.
-Present all the subtasks in the form of charts
 
 ### Task 4
 Webscraping Data from different websites dataset of laptops(including second hand laptops also) having price less than or equal to Rs. 20000. Prepare a dashboard corresponding to the dataset made and find insights.
